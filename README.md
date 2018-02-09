@@ -1,7 +1,7 @@
 # Welcome to Kiara Lewis's Savvy Coders Website
 ## February
-This portfolio will hold all of the cool activities that we tackle in the Feb 2018 Savvy Coders Cohort
+*This portfolio will hold all of the cool activities that we tackle in the Feb 2018 Savvy Coders Cohort*
 
 
 
-lewiskiara101@gmail.com
+**lewiskiara101@gmail.com**
